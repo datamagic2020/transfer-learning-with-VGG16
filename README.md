@@ -1,1 +1,1 @@
-# transfer-learning-with-VGG16
+# Flower classification using transfer-learning-with-VGG16
